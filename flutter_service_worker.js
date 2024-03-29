@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+const RESOURCES = {"icons/Icon-maskable-512.png": "f663359de94e9199bd7ecfcb034b4671",
+"icons/Icon-maskable-192.png": "f663359de94e9199bd7ecfcb034b4671",
+"icons/Icon-512.png": "f663359de94e9199bd7ecfcb034b4671",
+"icons/Icon-192.png": "f663359de94e9199bd7ecfcb034b4671",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/assets/images/shawaya_normal_color.webp": "731645c2b0f8ba84560df16127325f74",
 "assets/assets/images/yellow_shawarma_half.webp": "bcd5d3dd15600b5e581c8b00cea304a0",
@@ -77,10 +77,10 @@ const RESOURCES = {"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb0489
 "assets/FontManifest.json": "6331cdcad51dc36537d1ef8814d3ff46",
 "assets/NOTICES": "2bab456db585ae1153f83c78e7623542",
 "assets/fonts/MaterialIcons-Regular.otf": "0c083f4e73385c2e64e2e723d7e5833b",
-"index.html": "d3ae7e2688bf6010e6259df7abd73d8b",
-"/": "d3ae7e2688bf6010e6259df7abd73d8b",
+"index.html": "4cb77dc3cb27c73486fe1c7aea4d50df",
+"/": "4cb77dc3cb27c73486fe1c7aea4d50df",
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
-"main.dart.js": "fa06d3c7105a8f04f4cbfe8242343ae6",
+"main.dart.js": "e8501320b7fa05d0ffacf09f34076f9d",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "canvaskit/skwasm.js": "87063acf45c5e1ab9565dcf06b0c18b8",
 "canvaskit/chromium/canvaskit.wasm": "f87e541501c96012c252942b6b75d1ea",
