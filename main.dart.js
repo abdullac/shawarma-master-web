@@ -67453,7 +67453,7 @@ A.aaP("tel://9605708496")},
 $S:0}
 A.Bc.prototype={
 M(a){var s=t.G
-return A.rb(A.a([A.acZ(A.a([A.j4(new A.d3(B.fW,A.Vu("assets/images/call_logo.webp",B.dJ),null),25,25),A.j4(new A.d3(B.fW,A.Vu("assets/images/whatsapp_logo.webp",B.dJ),null),25,25),A.j4(new A.d3(B.fW,A.Vu("assets/images/add_contact_logo.webp",B.dJ),null),25,25),B.It],s),B.aW,B.b_),B.Qa],s),B.aW,B.d1,B.pF)}}
+return A.rb(A.a([A.acZ(A.a([A.j4(new A.d3(B.fW,A.Vu("assets/images/call_logo.webp",B.dJ),null),25,25),A.j4(new A.d3(B.fW,A.Vu("assets/images/whatsapp_logo.webp",B.dJ),null),25,25),A.j4(new A.d3(B.fW,A.Vu("assets/images/addcontactlogo.webp",B.dJ),null),25,25),B.It],s),B.aW,B.b_),B.Qa],s),B.aW,B.d1,B.pF)}}
 A.t3.prototype={
 ak(){return new A.Jq(B.l)}}
 A.Jq.prototype={
@@ -73064,7 +73064,7 @@ return A.a_(["title","Kuboos Shawarma","titleColor",B.n,"content","IrXyamb AfhpI
 r($,"aCq","anl",()=>{var q=t.z
 return A.a_(["title","Porotta Roll Shawarma","titleColor",B.n,"content","Gsd t]cpsSbpw {]nbamb s]mtdm\xabsb tN\xc0\xafp]nSn\xa8v jh\xc0a X\xbfmdm\xa1p\xb6p","image","assets/images/porotta_roll.webp","buttonVisiblity",!0,"backgroundColors",A.a([B.aw,B.am],t.O),"buttonFunction",new A.aa4()],q,q)})
 r($,"aCk","anf",()=>{var q=t.z
-return A.a_(["title","Al-Dan Shawarma","titleColor",B.n,"content","km[mcWbn\xc2 \u0d28n\xb6v Hcp Aev]w IqSpX\xc2 Afhn\xc2 jh\xc0a X\xbfmdm\xa1p\xb6p","image","assets/images/aldan_shawarma.webp","buttonVisiblity",!0,"backgroundColors",A.a([B.aw,B.am],t.O),"buttonFunction",new A.a9Z()],q,q)})
+return A.a_(["title","Al-Dan Shawarma","titleColor",B.n,"content","km[mcWbn\xc2 \u0d28n\xb6v Hcp Aev]w IqSpX\xc2 Afhn\xc2 jh\xc0a X\xbfmdm\xa1p\xb6p","image","assets/images/aldan-shawarma.webp","buttonVisiblity",!0,"backgroundColors",A.a([B.aw,B.am],t.O),"buttonFunction",new A.a9Z()],q,q)})
 r($,"aCn","ani",()=>{var q=t.z
 return A.a_(["title","Bun Shawarma","titleColor",B.n,"content","Hcp kn\xbcn\xc4 kv\u0d28m\xa1v t]mse jh\xc0a Ign\xa1m\xb3 B{Kln\xa1p\xb6h\xc0\xa1v th\xefn _\xb6n\xc2 X\xbfmdm\xa1p\xb6p","image","assets/images/bun_shawarma.webp","buttonVisiblity",!0,"backgroundColors",A.a([B.aw,B.am],t.O),"buttonFunction",new A.aa1()],q,q)})
 r($,"aCu","anp",()=>{var q=t.z
@@ -73080,7 +73080,7 @@ return A.a_(["title","Fries Shawarma","titleColor",B.n,"content","Crunchy jh\xc0
 r($,"aD0","anJ",()=>{var q=t.z
 return A.a_(["title","Full Meet \nShawarma","titleColor",B.n,"content","Hcp fullmeet jh\xc0a Gsd t]cpsSbpw (amdn adbm\xaf) kz]v\u0d28at\xc3","image","assets/images/full_meet_shawarma.webp","buttonVisiblity",!0,"backgroundColors",A.a([B.d2.b8(100),B.bE.b8(50)],t.O),"buttonFunction",new A.ab8()],q,q)})
 r($,"aD2","anL",()=>{var q=t.z
-return A.a_(["title","Shawarma \nSalad Items","titleColor",B.n,"content","Hmtcm Znhkhpw shXykv\xaf kmeUpI\xc4, AXp \u0d28s\xc3mcp A\u0d28p`hw BInt\xc3","image","assets/images/all_salads_image2.webp","buttonVisiblity",!0,"backgroundColors",A.a([B.hB.b8(100),B.Hv.b8(50)],t.O),"buttonFunction",new A.aba()],q,q)})
+return A.a_(["title","Shawarma \nSalad Items","titleColor",B.n,"content","Hmtcm Znhkhpw shXykv\xaf kmeUpI\xc4, AXp \u0d28s\xc3mcp A\u0d28p`hw BInt\xc3","image","assets/images/allsaladsimage2.png","buttonVisiblity",!0,"backgroundColors",A.a([B.hB.b8(100),B.Hv.b8(50)],t.O),"buttonFunction",new A.aba()],q,q)})
 r($,"aD1","anK",()=>{var q=t.z
 return A.a_(["title","Shawarma \nMixed Salad","titleColor",B.n,"content","hnhn[ sF\xe4wkpI\xc4 tN\xc0\xafp\xc5 Hcp kmeUv, Ikvsdtagvkn\u0d28v kt\xb4mjw BInt\xc3","image",u.s,"buttonVisiblity",!0,"backgroundColors",A.a([B.hD.b8(100),B.c5.b8(50)],t.O),"buttonFunction",new A.ab9()],q,q)})
 r($,"aCz","anu",()=>{var q=t.z
