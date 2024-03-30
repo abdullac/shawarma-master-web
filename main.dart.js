@@ -67432,11 +67432,10 @@ A.G1.prototype={
 M(a){var s=null
 return new A.eV(this.c,s,s,A.Vu("assets/"+this.d,s),s)}}
 A.G2.prototype={
-M(a){var s=this,r=null,q=s.w,p=A.a1K(s.c,A.mD(r,r,s.e,r,r,r,r,r,"Chancery",r,r,s.f,r,r,B.cH,r,r,!0,r,r,r,r,r,A.a([new A.fi(A.T(153,0,0,0),B.Ic,5),new A.fi(A.T(204,255,255,255),B.Ia,2)],t.kO),r,r),B.bj)
-p=new A.mJ(A.om(q.a,q.b,0),r,r,!0,r,p,r)
-q=p
-p=A.a1K(s.d,B.OV,B.bj)
-return new A.d3(s.r,A.rb(A.a([q,p],t.G),B.fN,B.GE,B.b_),r)}}
+M(a){var s,r=this,q=null,p=r.w,o=A.a1K("kIsWeb",A.mD(q,q,r.e,q,q,q,q,q,"Chancery",q,q,r.f,q,q,B.cH,q,q,!0,q,q,q,q,q,A.a([new A.fi(A.T(153,0,0,0),B.Ic,5),new A.fi(A.T(204,255,255,255),B.Ia,2)],t.kO),q,q),B.bj)
+p=A.om(p.a,p.b,0)
+s=A.a1K(r.d,B.OV,B.bj)
+return new A.d3(r.r,A.rb(A.a([new A.mJ(p,q,q,!0,q,o,q),s],t.G),B.fN,B.GE,B.b_),q)}}
 A.Gi.prototype={
 M(a){var s=null
 return new A.vP(new A.d3(B.Cm,new A.o2(new A.jH("assets/images/Shawarma_hawaya_logo_512.webp",s,s),s,s),s),B.Cy,B.Jh,B.m,B.x,500,!0,s)}}
