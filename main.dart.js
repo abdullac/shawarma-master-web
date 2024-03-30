@@ -67430,7 +67430,7 @@ else{k=k[j].k(0,"title")
 k=new A.FZ(k,o.as!==!1,n)}return A.jR(n,A.p6(B.bm,A.a([m,r,p,k],t.G),B.cl),n,new A.dn(n,l,n,h,n,new A.lO(B.dG,B.b4,B.bQ,i,n,n),B.aH),o.e,o.f,n,o.d)}}
 A.G1.prototype={
 M(a){var s=null
-return new A.eV(this.c,s,s,A.Vu(this.d,s),s)}}
+return new A.eV(this.c,s,s,A.Vu("assets/"+this.d,s),s)}}
 A.G2.prototype={
 M(a){var s=this,r=null,q=s.w,p=A.a1K(s.c,A.mD(r,r,s.e,r,r,r,r,r,"Chancery",r,r,s.f,r,r,B.cH,r,r,!0,r,r,r,r,r,A.a([new A.fi(A.T(153,0,0,0),B.Ic,5),new A.fi(A.T(204,255,255,255),B.Ia,2)],t.kO),r,r),B.bj)
 p=new A.mJ(A.om(q.a,q.b,0),r,r,!0,r,p,r)
