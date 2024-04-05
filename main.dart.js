@@ -72198,7 +72198,7 @@ return A.T(["title","Fries Shawarma","titleColor",B.n,"content","Crunchy jh\xc0a
 r($,"azR","alo",()=>{var q=t.z
 return A.T(["title","Full Meet \nShawarma","titleColor",B.n,"content","Hcp fullmeet jh\xc0a Gsd t]cpsSbpw (amdn adbm\xaf) kz]v\u0d28at\xc3","image","assets/images/full_meet_shawarma.webp","buttonVisiblity",!0,"backgroundColors",A.a([B.d6.bc(100),B.bL.bc(50)],t.O),"buttonFunction",new A.a9g()],q,q)})
 r($,"azT","alq",()=>{var q=t.z
-return A.T(["title","Shawarma \nSalad Items","titleColor",B.n,"content","Hmtcm Znhkhpw shXykv\xaf kmeUpI\xc4, AXp \u0d28s\xc3mcp A\u0d28p`hw BInt\xc3","image","assets/images/allsaladsimage2.png","buttonVisiblity",!0,"backgroundColors",A.a([B.b6.bc(100),B.hT.bc(50)],t.O),"buttonFunction",new A.a9i()],q,q)})
+return A.T(["title","Shawarma \nSalad Items","titleColor",B.n,"content","Hmtcm Znhkhpw shXykv\xaf kmeUpI\xc4, AXp \u0d28s\xc3mcp A\u0d28p`hw BInt\xc3","image","assets/images/all_salads_image2.webp","buttonVisiblity",!0,"backgroundColors",A.a([B.b6.bc(100),B.hT.bc(50)],t.O),"buttonFunction",new A.a9i()],q,q)})
 r($,"azS","alp",()=>{var q=t.z
 return A.T(["title","Shawarma \nMixed Salad","titleColor",B.n,"content","hnhn[ sF\xe4wkpI\xc4 tN\xc0\xafp\xc5 Hcp kmeUv, Ikvsdtagvkn\u0d28v kt\xb4mjw BInt\xc3","image","assets/images/mixed_salad_bowl_image.webp","buttonVisiblity",!0,"backgroundColors",A.a([B.eu.bc(100),B.c8.bc(50)],t.O),"buttonFunction",new A.a9h()],q,q)})
 r($,"azu","ald",()=>{var q=t.z
